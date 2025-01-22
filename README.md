@@ -11,11 +11,15 @@ ProofChain is a decentralized, web-based Evidence Management System (EMS) design
 ## Tech Stack
 **Frontend:** HTML, CSS, Bootstrap, JavaScript
 
-**Backend:** Python, Django
+**Backend:** Python (Django)
 
-**Blockchain & Storage:** Ethereum, InterPlanetary File System (IPFS), MetaMask
+**Blockchain Layer:** Solidity for Smart Contracts, InterPlanetary File System (IPFS), Web3.py
 
-**Development Tools:** Ganache, Truffle, Metamask
+**Storage Layer:** InterPlanetary File System (IPFS), Pinata
+
+**Authentication & Authorization:** Metamask
+
+**Development Tools:** Ganache, Truffle
 ## Get Started
 
 1. Clone the repository:
