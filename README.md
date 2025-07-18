@@ -1,14 +1,17 @@
-
 # ProofChain
 
-
 ## Project Description
-ProofChain is a decentralized, web-based Evidence Management System (EMS) designed to securely store and retrieve criminal data. It leverages blockchain technology, IPFS (InterPlanetary File System), and MetaMask to ensure the immutability and security of evidence. 
+
+ProofChain is a decentralized, web-based Evidence Management System (EMS) designed to securely store and retrieve criminal data. It leverages blockchain technology, IPFS (InterPlanetary File System), and MetaMask to ensure the immutability and security of evidence.
+
 ## Features
-* **User Authentication and Authorization:** Users log in using MetaMask wallet for secure access
-* **Evidence Submission:** Admins add evidence by submitting criminal data, metadata, and files through the "Add Evidence" page.
-* **Evidence Retrieval:** Users search and view stored evidence by entering the unique hash ID on the "View Evidence" page.
+
+- **User Authentication and Authorization:** Users log in using MetaMask wallet for secure access
+- **Evidence Submission:** Admins add evidence by submitting criminal data, metadata, and files through the "Add Evidence" page.
+- **Evidence Retrieval:** Users search and view stored evidence by entering the unique hash ID on the "View Evidence" page.
+
 ## Tech Stack
+
 **Frontend:** HTML, CSS, Bootstrap, JavaScript
 
 **Backend:** Python (Django)
@@ -20,6 +23,7 @@ ProofChain is a decentralized, web-based Evidence Management System (EMS) design
 **Authentication & Authorization:** Metamask
 
 **Development Tools:** Ganache, Truffle
+
 ## Get Started
 
 1. Clone the repository:
@@ -27,6 +31,7 @@ ProofChain is a decentralized, web-based Evidence Management System (EMS) design
 ```bash
   git clone https://github.com/aneetan/Evidence-Management-System.git
 ```
+
 2. Navigate to project directory:
 
 ```bash
@@ -44,8 +49,11 @@ ProofChain is a decentralized, web-based Evidence Management System (EMS) design
 ```bash
  python manage.py runserver
 ```
-6. Access the application in your local browser. 
+
+6. Access the application in your local browser.
+
 ## Screenshots
+
 **Landing Page**
 ![App Screenshot](pictures/Screenshot%202025-01-14%20221158.png)
 **Add Evidence**
@@ -54,4 +62,4 @@ ProofChain is a decentralized, web-based Evidence Management System (EMS) design
 **View Evidence**
 ![App Screenshot](pictures/s100.png)
 
-
+all done
